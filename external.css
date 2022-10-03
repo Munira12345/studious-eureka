@@ -1,0 +1,15 @@
+h2{
+  color:yellowgreen;
+}
+body {
+  background-color: rgb(7, 102, 105);
+  color: azure;
+  font-size: 1.1em;
+}
+h2 {
+  font-size: 1.3em;
+}
+p{
+  color: orange;
+}
+
